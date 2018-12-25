@@ -15,7 +15,7 @@ extern "C" {
 #include <libavutil/avutil.h>
 #include <libavutil/pixfmt.h>
 
-#include "com_fiberhome_mediasearch_core_natives_CVideoFrameUtil.h"
+#include "com_thweixia_mediasearch_core_natives_CVideoFrameUtil.h"
 }
 
 using std::string;
